@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firdosh008" alt="firdosh008" /></a> </p>
 
-- 🔭 I’m currently working on **Backend**
+- 🔭 I’m currently working on **Full-Stack Development with a focus on Frontend Engineering**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **AI/ML and exploring No-Code Generative AI Automations**
 
-- 🤝 I’m looking for help with **Building full Stack websites**
+- 🤝 I’m looking opportunities in **Frontend and Full-Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://firdosh008.github.io/my_portfolio/](https://firdosh008.github.io/my_portfolio/)
 
-- 💬 Ask me about **react, computer vision**
+- 💬 Ask me about **React, Next.js, TypeScript, Node.js**
 
 - 📫 How to reach me **ahmadfirdosh008@gmail.com**
 
