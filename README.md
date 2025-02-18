@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking opportunities in **Frontend and Full-Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://firdosh008.github.io/my_portfolio/](https://firdosh008.github.io/my_portfolio/)
+- 👨‍💻 All of my projects are available at [firdosh.pages.dev](firdosh.pages.dev)
 
 - 💬 Ask me about **React, Next.js, TypeScript, Node.js**
 
