@@ -3,9 +3,10 @@
 ### Full Stack Developer | Frontend Engineer | AI Workflow Systems
 
 <p align="center">
-  <a href="https://portfolio-rkm5.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/firdosh-ahmad-1b086b229/">💼 LinkedIn</a> •
-  <a href="https://dev.llmcontrols.ai/">🤖 AI Platform</a> •
+  <a href="https://ahmadfirdosh.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ahmadfirdosh/">💼 LinkedIn</a> •
+  <a href="https://leetcode.com/u/note_08/">🧠 LeetCode</a> •
+  <a href="https://drive.google.com/file/d/1cfqaIEPndU60uFN4c0qWO4TuB7-7MnqO/view?usp=sharing">📄 Resume</a> •
   <a href="mailto:ahmadfirdosh008@gmail.com">📧 Email</a>
 </p>
 
@@ -70,6 +71,8 @@
 - Vector-based document search & conversational Q&A  
 - Dynamic prompt-driven mini UI generation  
 - Built using Next.js, Tailwind, and MySQL  
+
+🔗 https://objs.ai/
 
 ---
 
@@ -137,18 +140,18 @@ Top 24 out of 150 teams
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firdosh008&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=firdosh008&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=firdosh008&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firdosh008&theme=tokyonight" />
 </p>
-
 
 ---
 
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: https://portfolio-rkm5.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/firdosh-ahmad-1b086b229/
-- 🤖 AI Platform: https://dev.llmcontrols.ai/
+- 🌐 Portfolio: https://ahmadfirdosh.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/ahmadfirdosh/
+- 🧠 LeetCode: https://leetcode.com/u/note_08/
+- 📄 Resume: https://drive.google.com/file/d/1cfqaIEPndU60uFN4c0qWO4TuB7-7MnqO/view?usp=sharing
 - 📧 Email: ahmadfirdosh008@gmail.com
 
 ---
