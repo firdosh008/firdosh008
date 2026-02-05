@@ -137,9 +137,10 @@ Top 24 out of 150 teams
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firdosh008&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firdosh008&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=firdosh008&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=firdosh008&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
