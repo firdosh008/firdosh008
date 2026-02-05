@@ -49,7 +49,7 @@
 ---
 
 ### 🎓 Frontend Developer — One-For-Life
-📍 Remote | Sept 2023 – Dec 2024
+📍 Remote | Sept 2023 – Mar 2025
 
 - Built **21+ production UI screens** for E-learning & Fintech platforms  
 - Integrated REST APIs for authentication, payments, and course workflows  
