@@ -1,75 +1,155 @@
-<h1 align="center">Hey 👋, I'm Firdosh Ahmad</h1> <h3 align="center">Full Stack Developer | Frontend Engineer | AI Workflow Systems</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=firdosh008&label=Profile%20views&color=0e75b6&style=flat" alt="firdosh008" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=firdosh008&theme=flat&margin-w=10" alt="firdosh008" /> </a> </p>
-👨‍💻 About Me
+# 🚀 Firdosh Ahmad
 
-🚀 Full Stack Developer with 2+ years of experience building scalable, high-performance web applications
+### Full Stack Developer | Frontend Engineer | AI Workflow Systems
 
-🎯 Strong focus on Frontend Engineering (React, Next.js, TypeScript) with production-grade UI systems
+<p align="center">
+  <a href="https://portfolio-rkm5.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/firdosh-ahmad-1b086b229/">💼 LinkedIn</a> •
+  <a href="https://dev.llmcontrols.ai/">🤖 AI Platform</a> •
+  <a href="mailto:ahmadfirdosh008@gmail.com">📧 Email</a>
+</p>
 
-🤖 Currently working on LLM-controlled AI workflow platforms, multi-agent orchestration & RAG pipelines
+---
 
-🧠 Experienced with AI integrations, FastAPI backends, MLflow, and agentic systems
+## 👨‍💻 About Me
 
-🤝 Open to opportunities in Frontend / Full-Stack / AI-Driven Product Teams
+🚀 Full Stack Developer with **2+ years of experience** building scalable, production-grade web applications.
 
-🧠 Current Work & Learning
+🎯 Strong focus on **Frontend Engineering** with modern UI architectures using React, Next.js, and TypeScript.
 
-🔭 Building AI workflow management software with visual flow builders and agent orchestration
+🤖 Currently working on **LLM-controlled AI workflow systems**, multi-agent orchestration platforms, and RAG pipelines.
 
-🌱 Deepening expertise in Generative AI, LLM systems, MLOps, and scalable frontend architectures
+🧠 Passionate about building intelligent developer tools, AI products, and scalable web experiences.
 
-💼 Experience Snapshot
+🤝 Open to opportunities in **Frontend, Full-Stack, and AI-Driven Product Teams**
 
-Full Stack Developer – LLMControls (Zemuria Venture Studio)
-AI workflow platform, multi-agent orchestration, FastAPI, MLflow, React flow builder
+---
 
-Frontend Developer – One-For-Life
-E-learning & Fintech platforms, React, Next.js, Material UI, REST API integrations
+## 🔭 Current Work & Learning
 
-🧩 Featured Projects
+- Building **AI workflow orchestration platforms** with visual flow builders  
+- Working on **multi-agent AI systems** and LLM tool integrations  
+- Exploring **Generative AI architectures & MLOps pipelines**  
+- Improving **scalable frontend system design & performance optimization**
 
-🛒 Any-Mart – Full-stack MERN e-commerce platform with Redux & JWT auth
+---
 
-🧭 Path Visualization Tool – Interactive pathfinding visualizer (Dijkstra, weighted graphs)
+## 💼 Experience
 
-✍️ Handwritten Digit Recognition – Real-time digit recognition with TensorFlow.js (99.74% accuracy)
+### 🧠 Full Stack Developer — Zemuria Venture Studio (LLMControls)
+📍 Pondicherry | Apr 2025 – Jan 2026
 
-🌐 Portfolio & Links
+- Built AI workflow orchestration platform enabling dynamic configuration of LLMs, vector databases, and external tools  
+- Developed visual workflow builder using **React Flow + TypeScript**  
+- Designed backend services using **FastAPI** to power dynamic workflow execution  
+- Integrated **MLflow** for experiment tracking and agent performance monitoring  
+- Developed **multi-agent RFP automation system** reducing manual proposal effort  
 
-👨‍💻 Portfolio: https://portfolio-rkm5.vercel.app/
+---
 
-🧪 AI Platform: https://dev.llmcontrols.ai/
+### 🎓 Frontend Developer — One-For-Life
+📍 Remote | Sept 2023 – Dec 2024
 
-📄 Resume:
-https://drive.google.com/file/d/1c7EFB6q576GcoV95pYviC9PuVsmBdqgG/view
+- Built **21+ production UI screens** for E-learning & Fintech platforms  
+- Integrated REST APIs for authentication, payments, and course workflows  
+- Improved onboarding experience and UI performance  
+- Collaborated within Agile development team  
 
-📫 Email: ahmadfirdosh008@gmail.com
+---
 
-🤝 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/firdosh-ahmad-1b086b229/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /> </a> <a href="https://leetcode.com/u/note_08/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /> </a> </p>
-🛠️ Tech Stack
+## 🧩 Featured Projects
 
-Frontend
+### 🛒 Any-Mart — MERN E-commerce Platform
+- Full-stack e-commerce platform with Redux state management  
+- Secure authentication using JWT  
+- Cart management and order processing system  
 
-React.js, Next.js, TypeScript, JavaScript
+---
 
-TailwindCSS, Material UI
+### 🤖 Objs.ai — AI Document Interaction Platform
+- Vector-based document search & conversational Q&A  
+- Dynamic prompt-driven mini UI generation  
+- Built using Next.js, Tailwind, and MySQL  
 
-Backend & AI
+---
 
-FastAPI, Django, Node.js, Express.js
+### 🧭 Path Visualization Tool
+- Interactive pathfinding visualizer  
+- Implemented **Dijkstra Algorithm & weighted graph simulation**  
+- Built for educational and visualization purposes  
 
-LLM integrations, RAG pipelines, AI agents
+🔗 GitHub: https://github.com/firdosh008/path_vizualization
 
-Tools & DevOps
+---
 
-Git, GitHub, Postman, CI/CD (GitHub Actions), MLflow
+### ✍️ Handwritten Digit Recognition
+- Real-time digit recognition using **TensorFlow.js**  
+- Achieved **99.74% prediction accuracy**
 
-🏆 Achievements
+---
 
-🥇 Smart India Hackathon – Campus finalist (Top 24 / 150 teams)
+## 🛠️ Tech Stack
 
-💡 LeetCode – Top 5.96% globally, 1000+ problems solved, max rating 1852
+### 🎨 Frontend
+- React.js  
+- Next.js  
+- TypeScript  
+- JavaScript  
+- Tailwind CSS  
+- Material UI  
 
-📄 IEEE GCAT Conference – Research on multi-object tracking (MOTA 78.1)
+### ⚙️ Backend & AI
+- FastAPI  
+- Node.js  
+- Express.js  
+- Django  
+- REST APIs  
+- LLM Integrations  
+- RAG Pipelines  
+- Multi-Agent Systems  
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firdosh008&show_icons=true&locale=en&layout=compact" /> </p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=firdosh008&show_icons=true&locale=en" /> </p> <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firdosh008" /> </p>
+### 🧰 Tools & DevOps
+- Git & GitHub  
+- Postman  
+- GitHub Actions (CI/CD)  
+- MLflow  
+- VS Code & Cursor  
+- Agile Development  
+
+---
+
+## 🏆 Achievements
+
+🥇 **Smart India Hackathon Finalist**  
+Top 24 out of 150 teams  
+
+💡 **LeetCode**
+- Top **5.96% globally**
+- Solved **1000+ problems**
+- Max Rating: **1852**
+
+📄 **IEEE GCAT Conference**
+- Research published on Multi-Object Tracking  
+- Achieved **MOTA Score: 78.1**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=firdosh008&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firdosh008&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 Portfolio: https://portfolio-rkm5.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/firdosh-ahmad-1b086b229/
+- 🤖 AI Platform: https://dev.llmcontrols.ai/
+- 📧 Email: ahmadfirdosh008@gmail.com
+
+---
+
+⭐ From [Firdosh Ahmad](https://github.com/firdosh008)
