@@ -40,21 +40,21 @@
 ### 🧠 Full Stack Developer — Zemuria Venture Studio (LLMControls)
 📍 Pondicherry | Apr 2025 – Jan 2026
 
-- Built AI workflow orchestration platform enabling dynamic configuration of LLMs, vector databases, and external tools  
-- Developed visual workflow builder using **React Flow + TypeScript**  
-- Designed backend services using **FastAPI** to power dynamic workflow execution  
-- Integrated **MLflow** for experiment tracking and agent performance monitoring  
-- Developed **multi-agent RFP automation system** reducing manual proposal effort  
+- Built and scaled a multi-agent AI workflow platform using React Flow and FastAPI, enabling dynamic automation for diverse business use cases.
+- Developed a React dashboard to monitor workflow’s token usage, and LLM inputs/outputs in everly level component, improving observability and debugging.
+- Designed multi-tenant architecture with role-based access control for organization-level workflow management.
+- Improved frontend performance through data loading optimization, reducing load time by∼6.6 seconds and enhancing user experience
+ 
 
 ---
 
 ### 🎓 Frontend Developer — One-For-Life
 📍 Remote | Sept 2023 – Mar 2025
 
-- Built **21+ production UI screens** for E-learning & Fintech platforms  
-- Integrated REST APIs for authentication, payments, and course workflows  
-- Improved onboarding experience and UI performance  
-- Collaborated within Agile development team  
+- Built 20+ responsive UI screens using React, Next.js, TypeScript, and Material UI from Figma designs.
+- Integrated and optimized 10+ REST APIs using axios for authentication, course workflows, and user management,
+for scalable web applications, improving performance and ensuring efficient API integration
+- Implemented scalable state management using Redux, improving system reliability and onboarding.
 
 ---
 
