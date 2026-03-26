@@ -51,10 +51,11 @@
 ### 🎓 Frontend Developer — One-For-Life
 📍 Remote | Sept 2023 – Mar 2025
 
-- Built 20+ responsive UI screens using React, Next.js, TypeScript, and Material UI from Figma designs.
-- Integrated and optimized 10+ REST APIs using axios for authentication, course workflows, and user management,
-for scalable web applications, improving performance and ensuring efficient API integration
-- Implemented scalable state management using Redux, improving system reliability and onboarding.
+- Developed enterprise-grade UI using React, Next.js, TypeScript, and Material UI based on Figma designs for
+client-facing applications.
+- Integrated and optimized REST APIs for authentication, course workflows, and user management, ensuring
+scalable and efficient data flow.
+- Implemented Redux-based state management, improving application reliability and maintainability.
 
 ---
 
