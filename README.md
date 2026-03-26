@@ -10,54 +10,6 @@
   <a href="mailto:ahmadfirdosh008@gmail.com">📧 Email</a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-🚀 Full Stack Developer with **2+ years of experience** building scalable, production-grade web applications.
-
-🎯 Strong focus on **Frontend Engineering** with modern UI architectures using React, Next.js, and TypeScript.
-
-🤖 Currently working on **LLM-controlled AI workflow systems**, multi-agent orchestration platforms, and RAG pipelines.
-
-🧠 Passionate about building intelligent developer tools, AI products, and scalable web experiences.
-
-🤝 Open to opportunities in **Frontend, Full-Stack, and AI-Driven Product Teams**
-
----
-
-## 🔭 Current Work & Learning
-
-- Building **AI workflow orchestration platforms** with visual flow builders  
-- Working on **multi-agent AI systems** and LLM tool integrations  
-- Exploring **Generative AI architectures & MLOps pipelines**  
-- Improving **scalable frontend system design & performance optimization**
-
----
-
-## 💼 Experience
-
-### 🧠 Full Stack Developer — Zemuria Venture Studio (LLMControls)
-📍 Pondicherry | Apr 2025 – Jan 2026
-
-- Built and scaled a multi-agent AI workflow platform using React Flow and FastAPI, enabling dynamic automation for diverse business use cases.
-- Developed a React dashboard to monitor workflow’s token usage, and LLM inputs/outputs in everly level component, improving observability and debugging.
-- Designed multi-tenant architecture with role-based access control for organization-level workflow management.
-- Improved frontend performance through data loading optimization, reducing load time by∼6.6 seconds and enhancing user experience
- 
-
----
-
-### 🎓 Frontend Developer — One-For-Life
-📍 Remote | Sept 2023 – Mar 2025
-
-- Developed enterprise-grade UI using React, Next.js, TypeScript, and Material UI based on Figma designs for
-client-facing applications.
-- Integrated and optimized REST APIs for authentication, course workflows, and user management, ensuring
-scalable and efficient data flow.
-- Implemented Redux-based state management, improving application reliability and maintainability.
-
----
 
 ## 🧩 Featured Projects
 
@@ -145,16 +97,5 @@ Top 24 out of 150 teams
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=firdosh008&theme=tokyonight" />
 </p>
 
----
-
-## 📫 Let's Connect
-
-- 🌐 Portfolio: https://ahmadfirdosh.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/ahmadfirdosh/
-- 🧠 LeetCode: https://leetcode.com/u/note_08/
-- 📄 Resume: https://drive.google.com/file/d/1cfqaIEPndU60uFN4c0qWO4TuB7-7MnqO/view?usp=sharing
-- 📧 Email: ahmadfirdosh008@gmail.com
-
----
 
 ⭐ From [Firdosh Ahmad](https://github.com/firdosh008)
